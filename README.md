@@ -16,9 +16,9 @@
   
   🛠 **Tech Stack** 🛠
   
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  ![](https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=white) ![](https://img.shields.io/badge/C++-00D8FF?style=plastic&logo=C%2B%2B&logoEolor=white)
+  ![](https://img.shields.io/badge/Pytorch-FF5E00?style=plastic&logo=Pythorch&logoColor=white) ![](https://img.shields.io/badge/Tensorflow-4374D9?style=plastic&logoColor=white)  
+  ![](https://img.shields.io/badge/Deep%20Learnig-4374D9?style=plastic&logoColor=white) ![](https://img.shields.io/badge/Machine%20Learning-1DDB16?style=plastic&logoColor=white)
   
 
   <br/>
