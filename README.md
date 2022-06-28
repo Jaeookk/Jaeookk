@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeookk&layout=compact)](https://github.com/metleeha)
 
-![Jaeookk's github stats](https://github-readme-stats.vercel.app/api?username=Jaeookk&show_icons=true)  
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=Jaeookk&show_icons=true)](https:github.com/Jaeookk/github-readme-stats)  
 
 </div>
 
