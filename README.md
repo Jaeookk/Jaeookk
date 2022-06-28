@@ -16,9 +16,27 @@
   
   🛠 **Tech Stack** 🛠
   
-  ![](https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=white) ![](https://img.shields.io/badge/C++-00D8FF?style=plastic&logo=C%2B%2B&logoEolor=white)
-  ![](https://img.shields.io/badge/Pytorch-FF5E00?style=plastic&logo=Pythorch&logoColor=white) ![](https://img.shields.io/badge/Tensorflow-4374D9?style=plastic&logoColor=white)  
   ![](https://img.shields.io/badge/Deep%20Learnig-4374D9?style=plastic&logoColor=white) ![](https://img.shields.io/badge/Machine%20Learning-1DDB16?style=plastic&logoColor=white)
+  <p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-E74A2B?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-05988A?style=flat-square&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2391E6?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-1A73E8?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wandb-FFB925?style=flat-square&logo=WeightsandBiases&logoColor=white"/>
+</p>
   
 
   <br/>
