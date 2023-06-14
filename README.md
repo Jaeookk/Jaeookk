@@ -35,20 +35,20 @@
   <br/>
   
   <h2 align="center"> About Me </h2>
-      <a href="https://velog.io/@wodnr0710">
-      <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@wodnr0710" style="height : auto; margin-left : 10px; margin right : 10px;"/>
-    </a> 
-    <a href="mailto:wodnr0710@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wodnr0710@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
+
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaeookk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeookk&size_weight=0.5&count_weight=0.5&langs_count=5&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<a href="https://velog.io/@wodnr0710">
+<img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@wodnr0710" style="height : auto; margin-left : 10px; margin right : 10px;"/>
+</a> 
+<a href="mailto:wodnr0710@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wodnr0710@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wodnr0710)](https://solved.ac/wodnr0710)
   [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeookk&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  ![followers](https://img.shields.io/github/followers/Jaeookk?style=social)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeookk&size_weight=0.5&count_weight=0.5&langs_count=5)](https://github.com/metleeha)
-
-  [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=Jaeookk&show_icons=true&count_private=true)](https:github.com/Jaeookk/github-readme-stats)  
+  ![followers](https://img.shields.io/github/followers/Jaeookk?style=social)  
 
 
 <!--   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wodnr0710)](https://solved.ac/wodnr0710)<br/> -->
